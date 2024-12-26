@@ -8,7 +8,6 @@ Provide clarity through well-documented test artifacts.
 
 2. Scope of Testing
 ✅ Functional Testing
-✅ Usability Testing
 ✅ Regression Testing
 ✅ Boundary Value Testing
 ✅ UI/UX Testing
