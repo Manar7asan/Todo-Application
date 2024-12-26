@@ -24,10 +24,16 @@ Bug Report Document: Detailed documentation of identified bugs with priority and
 
 
 5. Tools and Techniques Used:
+   
 Tweak Tool: Fine-tuned application behavior and interface for testing edge cases.
+
 Developer Tools:
+
 Network Tab: Monitored API calls, network requests, and responses.
+
 Application Tab: Examined storage, cookies, and caching behavior.
+
 Toggle Toolbar: Simulated different screen sizes and responsive design.
+
 Sensor Tool: Tested location-based and sensor-related functionalities.
 
