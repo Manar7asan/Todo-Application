@@ -8,7 +8,7 @@ Identify bugs and report them effectively.
 Ensure application stability and functionality through detailed test scenarios.
 Provide clarity through well-documented test artifacts.
 
-2. Scope of Testing
+3. Scope of Testing
 
 ✅ Functional Testing
 ✅ Regression Testing
