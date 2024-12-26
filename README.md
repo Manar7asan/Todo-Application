@@ -23,6 +23,7 @@ Test Case Document: Comprehensive scenarios and steps for validating app feature
 Bug Report Document: Detailed documentation of identified bugs with priority and severity levels.
 
 
+
 5. Tools and Techniques Used:
    
 Tweak Tool: Fine-tuned application behavior and interface for testing edge cases.
